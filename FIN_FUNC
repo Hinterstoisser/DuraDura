@@ -1,1 +1,12 @@
-### HERE WILL BE FUNCTIONS ###
+""" HERE WILL BE FUNCTIONS"""
+
+"""
+git commands:
+git clone <url>     - pull from github to local
+git status          - see status local vs github
+git add             - add new files from local to github
+git commit          - save the change
+    add comment on first line, press esc and enter :wq
+git push            - upload all to github
+
+"""
