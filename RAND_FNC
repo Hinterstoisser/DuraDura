@@ -1,0 +1,8 @@
+""" THIS WILL RETURN A RANDOM STRING"""
+
+import random as rd
+#generate random integer
+ri= rd.randint(100,999)
+#print it
+print(ri)
+
